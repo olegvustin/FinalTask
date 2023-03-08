@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\FINAL TASK\bin\Debug\net6.0\FINAL TASK.exe
+C:\Users\home\Desktop\FINAL TASK\bin\Debug\net6.0\FINAL TASK.deps.json
+C:\Users\home\Desktop\FINAL TASK\bin\Debug\net6.0\FINAL TASK.runtimeconfig.json
+C:\Users\home\Desktop\FINAL TASK\bin\Debug\net6.0\FINAL TASK.dll
+C:\Users\home\Desktop\FINAL TASK\bin\Debug\net6.0\FINAL TASK.pdb
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\FINAL TASK.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\FINAL TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\FINAL TASK.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\FINAL TASK.AssemblyInfo.cs
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\FINAL TASK.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\FINAL TASK.dll
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\refint\FINAL TASK.dll
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\FINAL TASK.pdb
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\FINAL TASK.genruntimeconfig.cache
+C:\Users\home\Desktop\FINAL TASK\obj\Debug\net6.0\ref\FINAL TASK.dll
